@@ -1,0 +1,3 @@
+﻿  Jiecheng.cpp
+G:\MFC5_4_1\Lib0\Jiecheng.cpp(14): warning C4715: “factorial”: 不是所有的控件路径都返回值
+  Lib0.vcxproj -> G:\MFC5_4_1\Debug\Lib0.lib
