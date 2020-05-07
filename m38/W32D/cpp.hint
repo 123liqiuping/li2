@@ -1,0 +1,2 @@
+#define W32D_API __declspec(dllexport)
+#define W32D_API __declspec(dllimport)
